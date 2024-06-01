@@ -1,0 +1,53 @@
+body{font -family: Arial;
+font-size: 20px;
+background-color:#f4f4f4;
+marquee{width:100%;direction:left;height:30px:}
+}
+header{
+position: sticky;
+top:0;
+background-color: #333;
+color: black;
+padding:5px;
+justify-content: space-between;
+align-items: center;
+display: flex;
+
+}
+logo-container {
+    display: flex;
+    align-items: ceheadernter;
+}
+
+header .logo {
+    width: 100px;
+    height: auto;
+}
+h2{font-family:elephant;color:black}
+
+
+
+h1{
+font-family:elephant;color:white}
+nav ul{
+list-style-type: none;
+}
+nav ul li{display:inline;
+margin-top:100px;
+margin-right:50px;
+}
+nav ul li a{
+color: white;
+text-decoration: none;
+}
+footer{
+bottom:0;
+background-color: #333;
+
+color: white;
+padding:5px;
+justify-content: space-between;
+align-items: center;
+display: flex;
+}
+bttn class{text-decoration:none}
